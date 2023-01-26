@@ -1,4 +1,4 @@
-# Node-CRUD
+# Node-CRUD-Todo
 
 It is a basic nodeJS - Express CRUD application
 
